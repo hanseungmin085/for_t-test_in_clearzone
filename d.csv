@@ -1,5 +1,3 @@
-group name,clear zone.1st,clear zone.2nd
-70% group,10,10.5
-60% group,8,9
-53% group,7.5,7
-40% group,6,5.8
+group name,70% group,60% group,53% group,40% group
+clear zone.1st,10,8,7.5,6
+clear zone.2nd,10.5,9,7,5.8
